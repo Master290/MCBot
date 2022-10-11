@@ -5,5 +5,3 @@ Minecraft decompiled server botting tool (only for educational purposes)
 `java -jar MCBOT.jar <IP:PORT> <PROTOCOL> <METHOD> <SECONDS> <TARGETCPS>`
 ### All Minecraft protocols you can find here
 ### https://wiki.vg/Protocol_version_numbers
-
-# Join DE4EZEX Community! https://discord.gg/9vjJMr24EP
